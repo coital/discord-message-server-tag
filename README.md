@@ -12,5 +12,5 @@ This bug/exploit was found by Dropout#1337 (853184720732422154).
 
 This is quite useless, but fun to play around with as it can confuse some people.
 
-[](https://i.imgur.com/bOSv4Xi.png)
+[Image](https://i.imgur.com/bOSv4Xi.png)
 
